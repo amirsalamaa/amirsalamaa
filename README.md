@@ -1,7 +1,7 @@
 # Hi 👋, I'm Amir Salama
 
 🚀 **Automation Test Engineer** | Manual, API, Web & Mobile Automation  
-🎓 **ISTQB Certified**: CTFL & CAT  
+🎓 **2X ISTQB Certified**: CTFL & CAT  
 💡 Driving software quality with hands-on experience across the testing spectrum, from manual and API to advanced web and mobile automation.
 
 💼 Currently:
