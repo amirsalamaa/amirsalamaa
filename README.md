@@ -8,6 +8,8 @@
 
 🌱 **Currently learning:** Automation Testing  
 
+👨‍💻 All of my projects are available at (https://github.com/amirsalamaa?tab=repositories)
+
 📫 **How to reach me:** amirsalama010@gmail.com  
 
 🔗 [Connect with me on LinkedIn] (https://www.linkedin.com/in/amirsalamaa/)
