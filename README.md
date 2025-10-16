@@ -1,16 +1,16 @@
 # Hi 👋, I'm Amir Salama
 
-🚀 **Automation Test Engineer** | Manual, API, Web & Mobile Automation  
+🚀 **Automation Test Engineer** | Manual, API, Automation Testing.
+
 🎓 **2X ISTQB Certified**: CTFL & CAT  
+
 💡 Driving software quality with hands-on experience across the testing spectrum, from manual and API to advanced web and mobile automation.
 
-💼 Currently:
-- **Automation Test Mentee at Deloitte**
-- **Ex-Automation Test Intern at VOIS**
-
 🌱 **Currently learning:** Automation Testing  
+
 📫 **How to reach me:** amirsalama010@gmail.com  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/amirsalamaa/)
+
+🔗 [Connect with me on LinkedIn] (https://www.linkedin.com/in/amirsalamaa/)
 
 ---
 
