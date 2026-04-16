@@ -1,12 +1,10 @@
 # Hi 👋, I'm Amir Salama
 
-🚀 **Automation Test Engineer @ Sumerge** | Manual, API, Automation Testing.
+🚀 **QA Automation Engineer @ Sumerge** | Manual, API, Automation Testing.
 
 🎓 **2X ISTQB Certified**: CTFL & CAT  
 
 💡 Driving software quality with hands-on experience across the testing spectrum, from manual and API to advanced web and mobile automation.
-
-🌱 **Currently learning:** Automation Testing  
 
 👨‍💻 All of my projects are available at (https://github.com/amirsalamaa?tab=repositories)
 
